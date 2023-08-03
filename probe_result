@@ -1,0 +1,22 @@
+
+
+    offset 0: score is 1.29, that means that elements 0, 1 and 5 are in LB
+
+    offset 6: score is 1.23, that means that element 11 is in LB
+
+    offset 12: score is 0.7, that means that element 12 is in LB
+    
+    offset 18: score is 0.97, that means that elements 18, 21 are in LB
+    
+    offset 24: score is 0.7, that means that element 24 is in LB
+    
+    offset 30: score is 1.26, that means that elements 30, 31, 34 are in LB
+    
+    offset 36: score is 1.67, that means that elements 36, 37, 38, 39, 40 are in LB
+    
+    offset 42: score is 0.7, that means that element 42 is in LB
+
+
+
+
+
